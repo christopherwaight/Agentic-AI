@@ -1,0 +1,122 @@
+# FENCE PROJECT WORK BREAKDOWN STRUCTURE (WBS)
+
+**Project:** Backyard Fence Replacement  
+**Version:** 1.0  
+**Date:** January 2025
+
+## 1.0 PROJECT MANAGEMENT
+### 1.1 Initiation
+- 1.1.1 Develop project charter
+- 1.1.2 Obtain sponsor approval
+- 1.1.3 Notify neighbors of project
+
+### 1.2 Planning  
+- 1.2.1 Measure fence perimeter
+- 1.2.2 Create detailed material list
+- 1.2.3 Develop installation sequence
+- 1.2.4 Obtain city permit
+
+### 1.3 Monitoring & Control
+- 1.3.1 Weekly progress updates to Mom
+- 1.3.2 Budget tracking
+- 1.3.3 Schedule management
+- 1.3.4 Quality inspections
+
+### 1.4 Closing
+- 1.4.1 Final walkthrough with Mom
+- 1.4.2 Dispose of old materials
+- 1.4.3 Document lessons learned
+- 1.4.4 Close out permit
+
+## 2.0 FENCE REMOVAL
+### 2.1 Site Preparation
+- 2.1.1 Mark utility lines (call 811)
+- 2.1.2 Protect landscaping
+- 2.1.3 Set up material staging area
+
+### 2.2 Demolition
+- 2.2.1 Remove fence panels **[Dependencies: 2.1 complete]**
+- 2.2.2 Extract fence posts **[Dependencies: 2.2.1]**
+- 2.2.3 Remove concrete footings **[Dependencies: 2.2.2]**
+- 2.2.4 Grade and level fence line **[Dependencies: 2.2.3]**
+
+### 2.3 Disposal
+- 2.3.1 Sort recyclable materials
+- 2.3.2 Load and haul debris (multiple trips)
+- 2.3.3 Clean work areas
+
+## 3.0 MATERIAL PROCUREMENT
+### 3.1 Lumber Purchase
+- 3.1.1 Order pressure-treated posts (4x4x8')
+- 3.1.2 Order rails (2x4x8')  
+- 3.1.3 Order fence panels (6'x8' sections)
+- 3.1.4 Arrange delivery **[Dependencies: Truck availability]**
+
+### 3.2 Hardware & Supplies
+- 3.2.1 Purchase post-hole concrete
+- 3.2.2 Buy galvanized brackets and screws
+- 3.2.3 Acquire gate hardware
+- 3.2.4 Purchase gravel for drainage
+
+### 3.3 Finishing Materials
+- 3.3.1 Select and purchase stain/sealant
+- 3.3.2 Buy application supplies (brushes, rollers)
+- 3.3.3 Order decorative post toppers **[Dependencies: After 4.3.2]**
+
+## 4.0 INSTALLATION
+### 4.1 Post Installation
+- 4.1.1 Mark post locations (8' centers)
+- 4.1.2 Dig post holes (24" deep) **[Dependencies: 2.0 complete]**
+- 4.1.3 Set posts in concrete **[Dependencies: 4.1.2, 3.1.1]**
+- 4.1.4 Verify post alignment
+- 4.1.5 Allow concrete to cure (48 hours)
+
+### 4.2 Frame Assembly
+- 4.2.1 Install top rails **[Dependencies: 4.1.5]**
+- 4.2.2 Install bottom rails **[Dependencies: 4.2.1]**
+- 4.2.3 Mount gate posts **[Dependencies: 4.1.5]**
+- 4.2.4 Check frame square and level
+
+### 4.3 Panel Installation
+- 4.3.1 Mount fence panels **[Dependencies: 4.2 complete, 3.1.3]**
+- 4.3.2 Install gates **[Dependencies: 4.2.3, 3.2.3]**
+- 4.3.3 Secure all hardware
+- 4.3.4 Trim panels to fit
+
+## 5.0 FINISHING
+### 5.1 Surface Preparation
+- 5.1.1 Sand rough areas **[Dependencies: 4.0 complete]**
+- 5.1.2 Clean surfaces
+- 5.1.3 Protect adjacent surfaces
+
+### 5.2 Stain Application
+- 5.2.1 Apply first coat **[Dependencies: 5.1 complete, dry weather]**
+- 5.2.2 Allow drying (24 hours)
+- 5.2.3 Apply second coat **[Dependencies: 5.2.2]**
+- 5.2.4 Touch up coverage gaps
+
+### 5.3 Final Touches
+- 5.3.1 Install post toppers **[Dependencies: 5.2 complete, 3.3.3]**
+- 5.3.2 Mount house numbers (if applicable)
+- 5.3.3 Install gate locks
+- 5.3.4 Final cleanup
+
+## KEY DEPENDENCIES SUMMARY
+
+**Critical Path Sequence:**
+1. Site prep & removal must complete before posts
+2. Posts must cure 48 hours before rails
+3. Frame must complete before panels
+4. All construction must complete before staining
+5. Stain must dry before installing toppers
+
+**Resource Dependencies:**
+- David's truck needed for material delivery and debris hauling
+- Both brothers required for heavy lifting (post setting, panel mounting)
+- Dry weather required for concrete pouring and staining
+
+**External Dependencies:**
+- Permit approval before starting
+- Utility marking before digging
+- Material delivery scheduling
+- Weather windows for critical tasks

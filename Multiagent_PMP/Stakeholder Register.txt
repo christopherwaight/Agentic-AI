@@ -1,0 +1,60 @@
+FENCE PROJECT STAKEHOLDER REGISTER
+Version: 1.0
+Date: January 2025
+
+STAKEHOLDER #1
+Name: Margaret Johnson (Mom)
+Role: Project Sponsor
+Interest Level: High
+Influence Level: High
+Communication Preference: Email
+Communication Frequency: Weekly status updates (Sundays)
+Key Concerns: Stay within budget, quality finish, no Thanksgiving week work
+Escalation Authority: Final approval on all changes >$500 or >2 week delays
+Email: mom.johnson@email.com
+
+STAKEHOLDER #2
+Name: David Johnson
+Role: Project Manager / Brother 1
+Interest Level: High
+Influence Level: High
+Responsibilities: Planning, procurement, delivery (has truck), scheduling
+Communication Preference: In-person during work
+Key Concerns: Efficient material usage, staying on schedule
+Email: david.johnson@email.com
+
+STAKEHOLDER #3
+Name: Michael Johnson  
+Role: Technical Lead / Brother 2
+Interest Level: High
+Influence Level: High
+Responsibilities: Installation, construction, painting, quality control
+Communication Preference: In-person during work
+Key Concerns: Proper construction techniques, weather windows
+Email: michael.johnson@email.com
+
+STAKEHOLDER #4
+Name: Robert and Susan Miller
+Role: Next Door Neighbors (East side)
+Interest Level: Medium
+Influence Level: Low
+Communication Preference: Email
+Communication Frequency: Project start, major milestones, completion
+Key Concerns: Property line accuracy, construction noise, no Thanksgiving week work
+Email: millers@email.com
+
+STAKEHOLDER #5
+Name: Jim Patterson
+Role: Rear Neighbor
+Interest Level: Low
+Influence Level: Low
+Communication Preference: Email
+Communication Frequency: Project start and completion only
+Key Concerns: Maintaining shared fence quality, no Thanksgiving week work
+Email: jpatterson@email.com
+
+COMMUNICATION NOTES:
+- All neighbors have confirmed no construction during Thanksgiving week (Nov 20-30)
+- Mom and neighbors prefer receiving the same status report via email
+- Escalation emails go only to Mom unless issue affects specific neighbor
+- All stakeholders have approved the 6-foot height specification

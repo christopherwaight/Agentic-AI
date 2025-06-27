@@ -1,0 +1,89 @@
+# FENCE REPLACEMENT PROJECT CHARTER
+
+**Project Title:** Backyard Fence Replacement  
+**Date:** January 2025  
+**Project Duration:** 8-10 weeks  
+**Budget:** $4,500 (including 10% contingency)
+**Location:** 2034 Edgewood Drive, Palo Alto, CA, 94303
+
+## PROJECT OVERVIEW
+
+### Business Case
+The existing wooden fence around Mom's property has deteriorated over 15 years, with rotting posts and broken panels creating safety and security concerns. A new fence will restore property boundaries, improve home value, and enhance backyard privacy.
+
+### Project Objectives
+1. Remove and dispose of existing fence structure
+2. Install new pressure-treated wooden fence around property perimeter
+3. Apply weather-resistant stain and install decorative post toppers
+4. Complete installation before summer entertaining season
+5. Maintain positive neighbor relations throughout construction
+
+## STAKEHOLDERS
+
+### Project Sponsor
+- **Name:** Mom (Margaret Johnson)
+- **Authority:** Final approval on budget and major decisions
+- **Communication:** Weekly status updates, immediate escalation for issues >$500 or >1 week delay
+
+### Project Team
+- **Project Manager/Lead:** David Johnson (Brother 1)
+  - Responsibilities: Planning, material procurement, delivery (has truck)
+  - Skills: Excellent at sequencing tasks and logistics
+  
+- **Technical Lead:** Michael Johnson (Brother 2)  
+  - Responsibilities: Installation, painting, finishing work
+  - Skills: Carpentry and construction expertise
+
+### Other Stakeholders
+- **Neighbors:** Adjacent property owners (notification required)
+- **HOA:** Approval already obtained for fence design
+- **City:** Permit required for fence over 6 feet
+
+## PROJECT CONSTRAINTS
+
+1. **Blackout Period:** No construction November 20-30 (Thanksgiving week)
+2. **Budget Cap:** Total project cost must not exceed $5,000
+3. **Timeline:** Must complete by May 1 for graduation party
+4. **Work Hours:** Weekends only (team has full-time jobs)
+5. **Weather:** No work during rain or high winds
+
+## SUCCESS CRITERIA
+
+1. Fence installed around entire perimeter
+2. All sections level and structurally sound
+3. Finish applied evenly with no visible defects
+4. Project completed within budget
+5. No complaints from neighbors
+6. Mom satisfied with appearance and quality
+
+## ASSUMPTIONS
+
+1. Current fence perimeter measurements are accurate (~200 linear feet)
+2. No underground utilities will interfere with post holes
+3. Standard 6-foot height is acceptable throughout
+4. Existing fence posts can be removed without equipment rental
+5. Weather will cooperate for 6-8 working weekends
+
+## APPROVAL THRESHOLDS
+
+**Automatic Escalation to Sponsor Required If:**
+- Budget increase exceeds $500
+- Timeline delay exceeds 2 weeks  
+- Scope change affects more than 20% of fence perimeter
+
+**Team Authority Without Escalation:**
+- Budget variances under $500
+- Schedule adjustments under 2 weeks
+- Minor material substitutions
+- Work sequence changes
+
+## SIGNATURES
+
+**Project Sponsor:** _____________________  Date: __________  
+Margaret Johnson
+
+**Project Manager:** _____________________  Date: __________  
+David Johnson
+
+**Technical Lead:** _____________________  Date: __________  
+Michael Johnson

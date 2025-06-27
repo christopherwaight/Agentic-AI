@@ -1,0 +1,97 @@
+FENCE PROJECT REPORT TEMPLATES
+Version: 1.0
+Date: January 2025
+
+==================================================
+TEMPLATE 1: WEEKLY STATUS REPORT
+==================================================
+
+To: mom.johnson@email.com; millers@email.com; jpatterson@email.com
+From: david.johnson@email.com
+Subject: Fence Project Weekly Update - [DATE]
+
+Dear Mom and Neighbors,
+
+Here's this week's update on the fence replacement project:
+
+WORK COMPLETED THIS WEEK:
+[Bullet list of completed tasks]
+
+CURRENT STATUS:
+Schedule: [On Track / Ahead / Behind by X days]
+Budget: [On Track / Over by $X / Under by $X]
+Overall Progress: [X]% complete
+
+NEXT WEEK'S PLANNED WORK:
+[Bullet list of upcoming tasks]
+
+ISSUES OR CHANGES:
+[List any minor issues that don't require escalation]
+[If none: "No issues to report"]
+
+The project remains on track for completion by [TARGET DATE].
+
+If you have any questions, please let me know.
+
+Best regards,
+David Johnson
+Project Manager
+
+==================================================
+TEMPLATE 2: ESCALATION REPORT  
+==================================================
+
+To: mom.johnson@email.com
+Cc: michael.johnson@email.com
+From: david.johnson@email.com
+Subject: FENCE PROJECT - Approval Required for [Budget/Schedule/Scope] Change
+
+Dear Mom,
+
+I need your approval for a change to the fence project that exceeds our agreed thresholds.
+
+ISSUE SUMMARY:
+[Brief description of what happened]
+
+IMPACT:
+Original Budget: $4,090.91
+Revised Budget: $[NEW AMOUNT]
+Variance: $[AMOUNT] ([%] increase)
+
+Original Completion: March 29, 2025
+Revised Completion: [NEW DATE]
+Delay: [X weeks]
+
+[Or for scope changes:]
+Original Scope: 200 linear feet
+Revised Scope: [NEW MEASUREMENT]
+Change: [X%] increase
+
+CAUSE:
+[Explanation of why this occurred]
+
+RECOMMENDED ACTION:
+[Specific recommendation with rationale]
+
+ALTERNATIVES CONSIDERED:
+1. [Alternative option 1 with pros/cons]
+2. [Alternative option 2 with pros/cons]
+
+DECISION REQUIRED BY: [DATE]
+[Explanation of why timing matters]
+
+Please let me know if you'd like to discuss this over the phone or if you need any additional information to make your decision.
+
+Awaiting your approval to proceed.
+
+Best regards,
+David Johnson
+Project Manager
+
+==================================================
+TEMPLATE USAGE NOTES:
+- Status reports sent every Sunday evening
+- Escalation reports sent immediately when threshold exceeded
+- Status reports go to all stakeholders
+- Escalation reports go only to Mom with copy to Michael
+- Use actual data from project tracking in brackets

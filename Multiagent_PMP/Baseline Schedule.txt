@@ -1,0 +1,148 @@
+# FENCE PROJECT BASELINE SCHEDULE
+
+**Project Start:** January 11, 2025 (Saturday)  
+**Planned Completion:** March 29, 2025  
+**Total Duration:** 11 weeks (8 working weekends)  
+**Blackout Period:** None in baseline (Thanksgiving noted for future years)
+
+## SCHEDULE CONSTRAINTS
+- Work Days: Saturdays and Sundays only (8 hours/day)
+- Weather Delays: Built-in buffer for 2 rain weekends
+- Resource Availability: Both brothers required for critical tasks
+
+## DETAILED SCHEDULE BY WEEKEND
+
+### WEEK 1: January 11-12
+**Saturday (Day 1)**
+- 1.1 Project kickoff meeting with Mom (1 hr)
+- 1.2 Measure entire fence perimeter (3 hrs)
+- 1.3 Document existing conditions with photos (1 hr)
+- 1.4 Create detailed material list (3 hrs)
+
+**Sunday (Day 2)**
+- 1.5 Obtain city permit application (2 hrs)
+- 1.6 Get quotes from suppliers (3 hrs)
+- 1.7 Notify neighbors of project (1 hr)
+- 1.8 Call 811 for utility marking (0.5 hr)
+- 1.9 Finalize week 2 plan (1.5 hrs)
+
+### WEEK 2: January 18-19  
+**Saturday (Day 3)**
+- 2.1 Set up staging areas (2 hrs)
+- 2.2 Protect landscaping (2 hrs)
+- 2.3 Begin fence panel removal - front yard (4 hrs)
+
+**Sunday (Day 4)**
+- 2.4 Complete panel removal - sides and back (6 hrs)
+- 2.5 Load debris for disposal (2 hrs)
+
+### WEEK 3: January 25-26
+**Saturday (Day 5)**
+- 3.1 Remove fence posts - front section (4 hrs)
+- 3.2 Extract concrete footings (4 hrs)
+
+**Sunday (Day 6)**
+- 3.3 Remove remaining posts and footings (6 hrs)
+- 3.4 Haul debris to disposal (2 hrs)
+
+### WEEK 4: February 1-2
+**Saturday (Day 7)**
+- 4.1 Grade and level fence line (4 hrs)
+- 4.2 Mark new post locations (2 hrs)
+- 4.3 Order materials for delivery (2 hrs)
+
+**Sunday (Day 8)**
+- 4.4 Dig post holes - front section (6 hrs)
+- 4.5 Prepare concrete mixing area (2 hrs)
+
+### WEEK 5: February 8-9
+**Saturday (Day 9)**
+- 5.1 DELIVERY - Receive lumber and supplies (2 hrs)
+- 5.2 Set front posts in concrete (4 hrs)
+- 5.3 Verify alignment and plumb (2 hrs)
+
+**Sunday (Day 10)**
+- 5.4 Dig remaining post holes (6 hrs)
+- 5.5 Prep for next weekend (2 hrs)
+
+### WEEK 6: February 15-16
+**Saturday (Day 11)**
+- 6.1 Set side and back posts (6 hrs)
+- 6.2 Final post alignment check (2 hrs)
+
+**Sunday (Day 12)**
+- 6.3 Install top rails - all sections (6 hrs)
+- 6.4 Install bottom rails - front (2 hrs)
+
+### WEEK 7: February 22-23
+**Saturday (Day 13)**
+- 7.1 Complete bottom rail installation (4 hrs)
+- 7.2 Install gate post reinforcements (2 hrs)
+- 7.3 Begin panel mounting - front (2 hrs)
+
+**Sunday (Day 14)**
+- 7.4 Mount fence panels - all sections (8 hrs)
+
+### WEEK 8: March 1-2
+**Saturday (Day 15)**
+- 8.1 Install gates (4 hrs)
+- 8.2 Mount all hardware (2 hrs)
+- 8.3 Make panel adjustments (2 hrs)
+
+**Sunday (Day 16)**
+- 8.4 Sand and prep surfaces (4 hrs)
+- 8.5 Clean fence for staining (2 hrs)
+- 8.6 Protect adjacent surfaces (2 hrs)
+
+### WEEK 9: March 8-9 (WEATHER DEPENDENT)
+**Saturday (Day 17)**
+- 9.1 Apply first coat of stain - front/sides (8 hrs)
+
+**Sunday (Day 18)**
+- 9.2 Apply first coat - back section (4 hrs)
+- 9.3 Order post toppers for delivery (1 hr)
+- 9.4 Clean equipment (3 hrs)
+
+### WEEK 10: March 15-16 (BUFFER WEEKEND)
+- Reserved for weather delays or catch-up work
+- If on schedule: Second coat application
+
+### WEEK 11: March 22-23 (FINAL WEEKEND)
+**Saturday (Day 19)**
+- 11.1 Apply second coat if needed (6 hrs)
+- 11.2 Install post toppers (2 hrs)
+
+**Sunday (Day 20)**
+- 11.3 Install gate hardware and locks (2 hrs)
+- 11.4 Final site cleanup (3 hrs)
+- 11.5 Walk-through with Mom (1 hr)
+- 11.6 Create punch list (2 hrs)
+
+### WEEK 12: March 29-30 (CONTINGENCY)
+- Complete any punch list items
+- Final inspection
+- Project closeout
+
+## CRITICAL MILESTONES
+
+1. **Permit Approved** - By January 20
+2. **Demolition Complete** - January 26
+3. **Posts Set** - February 16 (48-hour cure required)
+4. **Frame Complete** - February 23
+5. **Panels Installed** - March 2
+6. **First Stain Coat** - March 9 (weather permitting)
+7. **Project Complete** - March 29
+
+## SCHEDULE RISKS
+
+1. **Weather Delays** - 2 buffer weekends included
+2. **Material Delivery** - Scheduled for established supplier relationship
+3. **Permit Delays** - Applied week 1 to allow processing time
+4. **Concrete Cure Time** - 48 hours minimum (spans weekday)
+5. **Stain Drying** - Requires dry weather forecast
+
+## FLOAT ANALYSIS
+
+- **Total Float:** 2 weekends (buffer + contingency)
+- **Critical Path:** Demolition → Post Setting → Frame → Panels → Staining
+- **Non-Critical:** Finishing touches, final cleanup (1 weekend float)

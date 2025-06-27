@@ -1,0 +1,108 @@
+# FENCE PROJECT INITIAL BUDGET
+
+**Project:** Backyard Fence Replacement  
+**Date:** January 2025  
+**Total Budget:** $4,500 (includes 10% contingency)  
+**Fence Length:** 200 linear feet (estimated)
+
+## BUDGET BREAKDOWN BY CATEGORY
+
+### MATERIALS - $3,180
+
+| Item | Quantity | Unit Price | Total | Notes |
+|------|----------|------------|-------|-------|
+| **Lumber** | | | | |
+| 4x4x8' Posts | 30 | $18.00 | $540.00 | 8' spacing + gates |
+| 2x4x8' Rails | 50 | $8.00 | $400.00 | Top and bottom |
+| 6'x8' Fence Panels | 25 | $65.00 | $1,625.00 | Pre-built panels |
+| Gate Kit (3' wide) | 2 | $85.00 | $170.00 | Includes hardware |
+| | | **Subtotal:** | **$2,735.00** | |
+| **Concrete & Gravel** | | | | |
+| 80lb Concrete Bags | 60 | $6.50 | $390.00 | 2 bags per post |
+| Gravel (drainage) | 10 bags | $5.50 | $55.00 | Post hole base |
+| | | **Subtotal:** | **$445.00** | |
+
+### HARDWARE & SUPPLIES - $485
+
+| Item | Quantity | Unit Price | Total | Notes |
+|------|----------|------------|-------|-------|
+| Post Brackets | 30 | $4.50 | $135.00 | Galvanized |
+| Screws (3" galv.) | 10 lbs | $8.00 | $80.00 | Bulk purchase |
+| Screws (1.5" galv.) | 5 lbs | $7.00 | $35.00 | Panel attachment |
+| Gate Hinges (heavy) | 4 | $15.00 | $60.00 | 2 per gate |
+| Gate Latches | 2 | $25.00 | $50.00 | Lockable |
+| Post Toppers | 30 | $3.50 | $105.00 | Decorative caps |
+| Misc Hardware | 1 lot | $20.00 | $20.00 | Brackets, shims |
+| | | **Subtotal:** | **$485.00** | |
+
+### FINISHING MATERIALS - $310
+
+| Item | Quantity | Unit Price | Total | Notes |
+|------|----------|------------|-------|-------|
+| Stain/Sealant | 10 gal | $28.00 | $280.00 | Coverage: 200 sq ft/gal |
+| Brushes | 4 | $5.00 | $20.00 | Various sizes |
+| Roller Supplies | 1 set | $10.00 | $10.00 | Tray, covers |
+| | | **Subtotal:** | **$310.00** | |
+
+### EQUIPMENT & SERVICES - $285
+
+| Item | Quantity | Unit Price | Total | Notes |
+|------|----------|------------|-------|-------|
+| Permit Fee | 1 | $125.00 | $125.00 | City requirement |
+| Debris Disposal | 3 loads | $40.00 | $120.00 | Dump fees |
+| Tool Rental | 2 days | $20.00 | $40.00 | Post hole digger |
+| | | **Subtotal:** | **$285.00** | |
+
+### LABOR - $240
+
+| Item | Quantity | Unit Price | Total | Notes |
+|------|----------|------------|-------|-------|
+| Lunch/Beverages | 16 days | $15.00 | $240.00 | Team sustenance |
+| | | **Subtotal:** | **$240.00** | |
+
+## BUDGET SUMMARY
+
+| Category | Amount | % of Total |
+|----------|--------|------------|
+| Materials | $3,180.00 | 70.7% |
+| Hardware & Supplies | $485.00 | 10.8% |
+| Finishing Materials | $310.00 | 6.9% |
+| Equipment & Services | $285.00 | 6.3% |
+| Labor (Food) | $240.00 | 5.3% |
+| **SUBTOTAL** | **$4,500.00** | **100%** |
+| Built-in Contingency | $409.09 | 10% |
+| **BASE BUDGET** | **$4,090.91** | |
+
+## COST TRACKING FIELDS
+
+**Budget Variance:** $0.00  
+**Actual Spent to Date:** $0.00  
+**Committed Costs:** $0.00  
+**Forecast at Completion:** $4,090.91  
+**Contingency Remaining:** $409.09
+
+## PAYMENT SCHEDULE
+
+1. **Week 1:** Permit fee - $125.00
+2. **Week 4:** Material deposit (50%) - $1,590.00  
+3. **Week 5:** Material balance - $1,590.00
+4. **Week 6:** Hardware purchase - $485.00
+5. **Week 8:** Stain/supplies - $310.00
+6. **Ongoing:** Disposal fees - $40.00 per load
+7. **Weekly:** Food/beverages - $30.00 per weekend
+
+## BUDGET NOTES
+
+1. Prices based on January 2025 quotes from local suppliers
+2. 10% contingency included for price fluctuations
+3. No labor costs (DIY project by brothers)
+4. Assumes no equipment rental beyond post hole digger
+5. Material quantities include 5% waste factor
+
+## ESCALATION THRESHOLDS
+
+- **Automatic Approval:** Variances under $500 total
+- **Sponsor Approval Required:** 
+  - Single variance over $500
+  - Cumulative variances over $500
+  - Total budget exceeding $5,000

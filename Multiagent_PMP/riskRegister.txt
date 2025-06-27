@@ -1,0 +1,64 @@
+FENCE PROJECT RISK REGISTER
+Version: 1.0
+Date: January 2025
+
+RISK ID: R001
+Description: Weather delays due to rain preventing concrete work or staining
+Probability: High (60%)
+Impact: Medium - 1-2 week delay
+Trigger: Weather forecast shows >50% rain on scheduled work weekend
+Mitigation: Monitor 10-day forecast, use buffer weekends, reschedule critical tasks
+Owner: David (Project Manager)
+Status: Active
+
+RISK ID: R002  
+Description: Material price increase beyond budgeted amounts
+Probability: Medium (40%)
+Impact: Medium - $200-800 cost increase
+Trigger: Supplier quote exceeds budget line item by >10%
+Mitigation: Lock in prices with deposit, have alternate suppliers identified
+Owner: David (Procurement)
+Status: Active
+
+RISK ID: R003
+Description: Hidden fence damage - perimeter larger than 200 ft estimate
+Probability: Medium (30%)
+Impact: High - 20-50% scope increase
+Trigger: Actual measurement exceeds estimate by >10%
+Mitigation: Complete accurate measurement in Week 1, plan for 10% overage
+Owner: Both Brothers
+Status: Active
+
+RISK ID: R004
+Description: Permit approval delay from city
+Probability: Low (20%)
+Impact: High - 2-4 week delay  
+Trigger: No permit response within 10 business days
+Mitigation: Submit permit Week 1, follow up weekly, have backup start date
+Owner: David (Project Manager)
+Status: Active
+
+RISK ID: R005
+Description: Underground utility interference discovered during digging
+Probability: Low (15%)
+Impact: High - $500+ cost and 1 week delay
+Trigger: 811 marking shows utilities in fence line
+Mitigation: Call 811 early, hand dig near marked utilities, adjust post spacing
+Owner: Michael (Technical Lead)
+Status: Active
+
+RISK ID: R006
+Description: Brother availability conflict due to work obligations
+Probability: Medium (35%)
+Impact: Medium - 1 weekend delay per occurrence
+Trigger: Either brother unavailable for scheduled weekend
+Mitigation: Confirm availability 2 weeks ahead, identify tasks for solo work
+Owner: Both Brothers
+Status: Active
+
+RISK SUMMARY
+Total Risks: 6
+High Impact: 3
+Medium Impact: 3
+Active Risks: 6
+Closed Risks: 0

@@ -1,0 +1,79 @@
+FENCE PROJECT CHANGE SCENARIOS
+Version: 1.0
+Date: January 2025
+
+SCENARIO 1: Light Rain Delay (Risk R001)
+Trigger: Rain forecast for upcoming weekend
+Impact: 1 weekend delay, no cost impact
+Description: Weather service shows 70% chance of rain Saturday-Sunday
+Required Actions: Reschedule concrete work, update timeline, send status update
+Escalation: NO - Under 2 week threshold
+
+SCENARIO 2: Extended Weather Delay (Risk R001)  
+Trigger: Three consecutive weekends of rain during critical path work
+Impact: 3 weekend delay, pushes completion to April 12
+Description: Unexpected weather pattern delays post setting and staining
+Required Actions: Revise entire schedule, evaluate alternatives
+Escalation: YES - Exceeds 2 week delay threshold
+
+SCENARIO 3: Lumber Price Spike (Risk R002)
+Trigger: Supplier quote shows 25% increase in lumber costs
+Impact: $685 cost increase
+Description: Regional lumber shortage drives prices up from $2,735 to $3,420
+Required Actions: Check alternate suppliers, revise budget forecast
+Escalation: YES - Exceeds $500 threshold
+
+SCENARIO 4: Minor Material Cost Increase (Risk R002)
+Trigger: Concrete prices increase by $2 per bag
+Impact: $120 total cost increase  
+Description: Fuel surcharge added to concrete deliveries
+Required Actions: Update budget tracking, proceed with purchase
+Escalation: NO - Under $500 threshold
+
+SCENARIO 5: Fence Perimeter Underestimated (Risk R003)
+Trigger: Actual measurement shows 245 linear feet (not 200)
+Impact: 22.5% increase in materials, $900 cost increase, 2 weekend extension
+Description: Side yard setback wasn't included in original estimate
+Required Actions: Recalculate all materials, update schedule and budget
+Escalation: YES - Exceeds both $500 and scope >20% thresholds
+
+SCENARIO 6: Small Perimeter Adjustment (Risk R003)
+Trigger: Actual measurement shows 215 linear feet
+Impact: 7.5% increase, $300 cost, 4 hours additional work
+Description: Corner angles require additional posts
+Required Actions: Order 3 extra posts and panels, adjust Day 11 schedule
+Escalation: NO - Under all thresholds
+
+SCENARIO 7: Permit Delayed 3 Weeks (Risk R004)
+Trigger: City hasn't responded after 15 business days
+Impact: 3 week delay to start, pushes into April
+Description: City backlog due to spring construction rush
+Required Actions: Full schedule revision, contact city, explore options
+Escalation: YES - Exceeds 2 week delay threshold
+
+SCENARIO 8: Utility Line Found (Risk R005)
+Trigger: Gas line runs along 40 feet of fence line
+Impact: $200 hand-digging cost, 1 weekend delay for careful excavation
+Description: 811 marking shows gas main 18 inches from fence line
+Required Actions: Rent trenching shovel, work carefully, adjust technique
+Escalation: NO - Under both thresholds
+
+SCENARIO 9: David Out Sick (Risk R006)
+Trigger: David has flu on critical delivery weekend
+Impact: 1 weekend delay, no cost impact
+Description: Material delivery must be rescheduled, Michael works alone on prep
+Required Actions: Reschedule delivery, adjust task assignments
+Escalation: NO - Under 2 week threshold
+
+SCENARIO 10: Combined Minor Issues (Multiple Risks)
+Trigger: 1 rain delay + $300 material increase + 1 sick day
+Impact: 2 weekend delay, $300 cost increase
+Description: Multiple small issues compound but stay under limits
+Required Actions: Update schedule and budget, continue work
+Escalation: NO - Each issue under threshold, cumulative still under
+
+SCENARIO TESTING NOTES:
+- Scenarios 2, 3, 5, and 7 require escalation emails to Mom
+- Scenarios 1, 4, 6, 8, 9, and 10 require status updates only
+- Each scenario should trigger appropriate agent responses
+- Combinations can be tested by running multiple scenarios
